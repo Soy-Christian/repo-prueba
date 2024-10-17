@@ -1,4 +1,4 @@
-nombre = "Melanie"
+nombre = "Santiago"
 seg_nombre = "Alejandro"
 
 saludo = "Hola " + nombre + " " + seg_nombre + " Como estas?"
